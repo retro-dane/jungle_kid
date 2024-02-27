@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: eb4ed66c6f4a1014480843fb4f2569c1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ground1
+    21300002: ground2
+    21300004: tile_jungle_ground_grey_2
+    21300006: ground3
+    21300008: ground5
+    21300010: tile_jungle_ground_grey_5
+    21300012: tile_jungle_ground_grey_6
+    21300014: tile_jungle_ground_grey_7
+    21300016: tile_jungle_ground_grey_8
+    21300018: tile_jungle_ground_grey_9
+    21300020: tile_jungle_ground_grey_10
+    21300022: tile_jungle_ground_grey_11
+    21300024: tile_jungle_ground_grey_12
+    21300026: tile_jungle_ground_grey_13
+    21300028: tile_jungle_ground_grey_14
+    21300030: tile_jungle_ground_grey_15
+    21300032: tile_jungle_ground_grey_16
+    21300034: tile_jungle_ground_grey_17
+    21300036: tile_jungle_ground_grey_18
+    21300038: tile_jungle_ground_grey_19
+    21300040: tile_jungle_ground_grey_20
+    21300042: tile_jungle_ground_grey_21
+    21300044: tile_jungle_ground_grey_22
+    21300046: tile_jungle_ground_grey_23
+    21300048: tile_jungle_ground_grey_24
+    21300050: tile_jungle_ground_grey_25
+    21300052: tile_jungle_ground_grey_26
+    21300054: tile_jungle_ground_grey_27
+    21300056: tile_jungle_ground_grey_28
+    21300058: tile_jungle_ground_grey_29
+    21300060: tile_jungle_ground_grey_30
+    21300062: tile_jungle_ground_grey_31
+    21300064: tile_jungle_ground_grey_32
+    21300066: tile_jungle_ground_grey_33
+    21300068: tile_jungle_ground_grey_34
+    21300070: tile_jungle_ground_grey_35
+    21300072: tile_jungle_ground_grey_36
+    21300074: tile_jungle_ground_grey_37
+    21300076: tile_jungle_ground_grey_38
+    21300078: tile_jungle_ground_grey_39
+    21300080: tile_jungle_ground_grey_40
+    21300082: tile_jungle_ground_grey_41
+    21300084: tile_jungle_ground_grey_42
+    21300086: tile_jungle_ground_grey_43
+    21300088: tile_jungle_ground_grey_44
+    21300090: tile_jungle_ground_grey_45
+    21300092: tile_jungle_ground_grey_46
+    21300094: tile_jungle_ground_grey_47
+    21300096: tile_jungle_ground_grey_48
+    21300098: tile_jungle_ground_grey_49
+    21300100: tile_jungle_ground_grey_50
+    21300102: tile_jungle_ground_grey_51
+    21300104: tile_jungle_ground_grey_52
+    21300106: tile_jungle_ground_grey_53
+    21300108: tile_jungle_ground_grey_54
+    21300110: tile_jungle_ground_grey_55
+    21300112: tile_jungle_ground_grey_56
+    21300114: tile_jungle_ground_grey_57
+    21300116: tile_jungle_ground_grey_58
+    21300118: tile_jungle_ground_grey_59
+    21300120: tile_jungle_ground_grey_60
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474833b4712a6ea4bb004fc662407326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 93
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d58588a4129d4d831a4e69b537d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_ground_grey_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 117
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0754e9aeb98330f4ba2722011d21821e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab559709ac0f8d47ad2b1c036397006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 94
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2564557d94c0146ac63343026bc144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_ground_grey_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab91d29d371d59542b0507a0a35c0e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b63af4ae142b42e4997cedb2c53f08c1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
